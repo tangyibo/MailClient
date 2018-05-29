@@ -1,0 +1,3 @@
+INSTALL
+========
+sudo yum install openssl
