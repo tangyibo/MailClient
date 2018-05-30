@@ -1,4 +1,6 @@
-C++/Java/Python发送邮件服务
+C++/Java/Python发送邮件客户端
 ==========================
- SMTP发送邮件
+ （1）C++版本的SMTP发送邮件
+ （2）java版本的SMTP发送邮件
+ （3）python版本的SMTP发送邮件
 
